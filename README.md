@@ -1,6 +1,6 @@
 ## Hey there, lets connect!
 
-![Header](./your-header-image-name.png)
+![Header](assets/github-header-banner.png)
 
 I am Afdhal Saufi, an aspiring cybersecurity analyst. Current hobby is to study CS across all fields. Feel free to check out my website!
 
