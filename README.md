@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there, lets connect!
+
+![Header](./your-header-image-name.png)
+
+I am Afdhal Saufi, an aspiring cybersecurity analyst. Current hobby is to study CS across all fields. Feel free to check out my website!
+
+1. [fdhlsfi.site](fdhlsfi.site) -- personal website, this is where I talk about myself
+2. [fdhlsfi.tech](fdhlsfi.tech) -- tech-centered, mostly devlogs and notes
 
 <!--
 **ezxd1148/ezxd1148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
