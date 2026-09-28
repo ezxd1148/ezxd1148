@@ -5,13 +5,13 @@
 I'm Afdhal Saufi, a self-taught developer and Technical Co-Founder of TechWira, with a focus on cybersecurity and low-level systems programming. I compete internationally in IoT/tech competitions and build things from scratch, usually on Linux.
 
 1. [fdhlsfi.site](https://fdhlsfi.site) — personal website, where I talk about myself
-2. [fdhlsfi.tech](https://fdhlsfi.tech) — tech-centered, mostly devlogs and notes
+2. [fdhlsfi.tech](https://fdhlsfi.tech) — tech-centered, mostly devlogs and notes (May not work sometimes idk why)
 
 # 💫 About Me:
-🔭 I'm currently working on freelance client work across a few concurrent projects<br>
-🌱 I'm currently learning low-level systems programming (Zig, Nim) and cybersecurity internals<br>
-💬 Ask me about IoT competitions, retail intelligence ML, or anonymous/community platform infra<br>
-⚡ Fun fact: I've represented Malaysia and won 3 international tech competitions before turning 18
+I'm currently working on freelance client work across a few concurrent projects<br>
+I'm currently learning low-level systems programming (Zig, Nim) and cybersecurity internals<br>
+Ask me about IoT competitions, retail intelligence ML, or anonymous/community platform infra<br>
+Fun fact: I've represented Malaysia and won 3 international tech competitions before turning 18
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fdhlsfi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezxd1148@gmail.com)
